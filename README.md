@@ -23,5 +23,5 @@ An end-to-end data analytics project analyzing pizza sales data using PostgreSQL
 5. **Lowest Seller:** The Brie Carre Pizza (490 units sold).
 
 ## 📂 Project Structure
-- pizza_sales_dashboard.xlsx - Excel dashboard with dynamic slicers and charts.
+- Excel-pizza_sales-dashboard.xlsx - Excel dashboard with dynamic slicers and charts.
 - pizza_queries.sql - SQL scripts for business queries and KPI validation.
